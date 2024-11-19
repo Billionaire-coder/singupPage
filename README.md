@@ -1,0 +1,1 @@
+This repository contains the code for a modern, responsive, and visually appealing signup page built using HTML, CSS, and JavaScript. The page incorporates smooth animations and a user-friendly design to create an engaging user experience.
